@@ -50,6 +50,7 @@ const styles = StyleSheet.create({
 
   inputField: {
   minWidth:100,
+  marginBottom: 10,
   borderWidth: 1,
   borderStyle: "solid",
   borderColor: '#1d1d1d'
